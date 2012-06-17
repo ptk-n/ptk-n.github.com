@@ -1,0 +1,34 @@
+.navbar .container .brand {
+  color: #669933;
+}
+
+.container .logo {
+  float: right;
+  padding-right: 70px;
+  padding-top: 5px;
+}
+
+.container .hero-unit {
+  background-color: #666633;
+  color: #999966;
+}
+
+.container .hero-unit h1 {
+  color: #FFFFFF;
+}
+.container .hero-unit h2 {
+  color: #669933;
+}
+
+.container .well h1 {
+  color: #666633;
+}
+
+.container .btn {
+  color: #FFFFFF;
+}
+
+footer {
+  float: right;
+  color: #666633;
+}
