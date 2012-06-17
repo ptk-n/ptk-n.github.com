@@ -1,6 +1,19 @@
+
+/*
+  schema:
+    http://colorschemedesigner.com/#2991FGDgfxueb0HlJR1H7K53QuMn4JRQX
+  green:
+    light: #669933
+    dark: #336600
+  brown:
+    light: #999966
+    dark: #666633
+*/
+
 body {
   padding-top: 60px;
   padding-bottom: 40px;
+  background-color: #999966;
 }
 
 .navbar .container .brand {
